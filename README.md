@@ -80,14 +80,6 @@ I have given complete theoritical stepwise explanation of computing decision tre
 
 ---
 
-## Table of contents 📋
-
-| **No.** | **Name** | 
-| ------- | -------- | 
-| 01 | **[Decision_Tree_PlayGolf_ID3](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/001_Decision_Tree_PlayGolf_ID3.ipynb)** |
-| 02 | **[Decision_Tree_PlayGolf_CART](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/001_Decision_Tree_PlayGolf_CART.ipynb)** |
-| 03 | **[Decision_Tree_Visualisation_Iris_Dataset](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/003_Decision_Tree_Visualisation_Iris_Dataset.ipynb)** |
-| 04 | **[Decision_Tree_Classifier_Iris_Dataset](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/004_Decision_Tree_Classifier_Iris_Dataset.ipynb)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Python_Decision_Tree_and_Random_Forest/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
