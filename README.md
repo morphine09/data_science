@@ -124,13 +124,13 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+I'm Gunish Mukherji and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
-See [github's contributors page](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/graphs/contributors) for details.
+See [github's contributors page](https://github.com/morphine09/data_science/blob/main/IRIS_CLASSIFICATION.ipynb) for details.
 
-If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/morphine09/data_science/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
-If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest).
+If you like this tutorial, please [give it a ⭐ star](https://github.com/morphine09/data_science).
 
 ---
 
